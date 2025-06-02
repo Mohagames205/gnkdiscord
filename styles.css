@@ -92,3 +92,7 @@ a.privacy{
 a.privacy:hover{
     color:var(--link-hover);
 }
+
+.center{
+    text-align: center;
+}
