@@ -93,6 +93,6 @@ a.privacy:hover{
     color:var(--link-hover);
 }
 
-.center{
+.text-center{
     text-align: center;
 }
