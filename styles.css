@@ -27,7 +27,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    color: var(--color-primary);
+    color: var(--text-color);
 }
 
 .container {
@@ -54,7 +54,9 @@ p {
 }
 
 hr {
-    color: var(--text-color);
+    border: none;
+    height: 1px;
+    background: var(--text-color);
 }
 
 a.button {
@@ -77,6 +79,5 @@ a.privacy{
 }
 
 a.privacy:hover{
-    color: var(--text-color);
     color:var(--link-hover);
 }
